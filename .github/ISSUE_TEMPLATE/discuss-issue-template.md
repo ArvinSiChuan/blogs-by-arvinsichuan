@@ -1,11 +1,14 @@
 ---
 name: Discuss issue template
-about: For Blog Discuss Purpos
-title: "[Talk | Discuss | Bug] Choose A Type First"
+about: For Blog Discuss Purpose
+title: ''
 labels: ''
 assignees: ArvinSiChuan
 
 ---
 
-- Type Of Issue:
-Talk | Discuss | Bug
+# Category
+<!-- Write A Category -->
+
+# Contents
+<!-- Write Your Contents Here -->
