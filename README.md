@@ -1,6 +1,6 @@
-# Arvinsichuan's Blog Page
+## Main Contents
 
-## CKA Series
+### [CKA Series](./cka/way-to-cka)
 ```bash
 Cert    Status  
 -----------------
