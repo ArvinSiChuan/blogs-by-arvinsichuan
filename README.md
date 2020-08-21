@@ -1,6 +1,8 @@
 ## Main Contents
 Language: ***EN***  [中文](./README-ZH)
 
+<video src="resources/videos/ThinkDifferent.mp4" autoplay>Think Different</video>
+
 ### [CKA Series](./cka/way-to-cka)
 ```bash
 Cert    Status  
