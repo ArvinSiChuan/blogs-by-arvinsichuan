@@ -1,7 +1,7 @@
 ## 所有内容
 语言：***简体中文*** [EN](./)
 
-<video width="320" height="240" autoplay loop>
+<video width="320" height="240" autoplay playsinline loop>
   <source src="https://sharing.arvinsichuan.com/videos/ThinkDifferent.mp4" type="video/mp4">
 </video>
 
