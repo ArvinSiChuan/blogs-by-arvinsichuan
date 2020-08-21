@@ -1,7 +1,7 @@
 ## 所有内容
 语言：***简体中文*** [EN](./)
 
-<video src="resources/videos/ThinkDifferent.mp4" autoplay>Think Different</video>
+<video src="https://sharing.arvinsichuan.com/videos/ThinkDifferent.mp4" autoplay>Think Different</video>
 
 ### [CKA 系列](./cka/way-to-cka)
 ```bash

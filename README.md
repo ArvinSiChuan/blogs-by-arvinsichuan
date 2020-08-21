@@ -1,7 +1,9 @@
 ## Main Contents
 Language: ***EN***  [中文](./README-ZH)
 
-<video src="resources/videos/ThinkDifferent.mp4" autoplay>Think Different</video>
+<video width="320" height="240" controls>
+  <source src="https://sharing.arvinsichuan.com/videos/ThinkDifferent.mp4" type="video/mp4">
+</video>
 
 ### [CKA Series](./cka/way-to-cka)
 ```bash
