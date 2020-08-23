@@ -1,6 +1,6 @@
 ## 所有内容
 语言：***简体中文*** [EN](./)
-
+🕖
 <video width="320" height="240" controls="controls" autoplay="autoplay" playsinline="playsinline">
   <source src="https://sharing.arvinsichuan.com/videos/ThinkDifferent.mp4" type="video/mp4">
 </video>
