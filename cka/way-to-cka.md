@@ -13,23 +13,28 @@
 [ ] Understand deployments and how to perform rolling update and rollbacks  
 [ ] Use ConfigMaps and Secrets to configure applications  
 [ ] Know how to scale applications  
-[ ] Understand the primitives used to create robust, self-healing, application deployments [ ] Understand how resource limits can affect Pod scheduling  
+[ ] Understand the primitives used to create robust, self-healing, application deployments 
+[ ] Understand how resource limits can affect Pod scheduling  
 [ ] Awareness of manifest management and common templating tools  
 ### 20% - Services & Networking
 [ ] Understand host networking configuration on the cluster nodes  
 [ ] Understand connectivity between Pods  
-[ ] Understand ClusterIP, NodePort, LoadBalancer service types and endpoints [ ] Know how to use Ingress controllers and Ingress resources  
+[ ] Understand ClusterIP, NodePort, LoadBalancer service types and endpoints 
+[ ] Know how to use Ingress controllers and Ingress resources  
 [ ] Know how to configure and use CoreDNS  
 [ ] Choose an appropriate container network interface plugin  
 ### 10% - Storage
 [ ] Understand storage classes, persistent volumes  
-[ ] Understand volume mode, access modes and reclaim policies for volumes [ ] Understand persistent volume claims primitive  
+[ ] Understand volume mode, access modes and reclaim policies for volumes 
+[ ] Understand persistent volume claims primitive  
 [ ] Know how to configure applications with persistent storage  
 ### 30% - Troubleshooting  
 [ ] Evaluate cluster and node logging  
-[ ] Understand how to monitor applications [ ] Manage container stdout & stderr logs  
+[ ] Understand how to monitor applications 
+[ ] Manage container stdout & stderr logs  
 [ ] Troubleshoot application failure  
-[ ] Troubleshoot cluster component failure [ ] Troubleshoot networking  
+[ ] Troubleshoot cluster component failure 
+[ ] Troubleshoot networking  
 
 
 
