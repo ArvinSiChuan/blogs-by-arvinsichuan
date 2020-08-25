@@ -9,7 +9,7 @@ Language: ***EN***  [中文](./README-ZH)
 ```bash
 Cert    Status  
 -----------------
-CKA     Init 0/3
+CKA     Init 3/3
 CKS     Pending
 ```
 **[Click Here to Leave A Message to me](https://github.com/ArvinSiChuan/blogs-by-arvinsichuan/issues/new?assignees=ArvinSiChuan&labels=&template=discuss-issue-template.md&title=)**
