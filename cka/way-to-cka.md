@@ -1,7 +1,7 @@
 # Overall Path to CKA
 [Back](..)
 ## Contents need to complete
-![[XMIND-TO-COMPLETE](./CKA%20Path.xmind)](../resources/imgs/to-complete-path.png)
+[![to-complete-path](../resources/imgs/to-complete-path.png)](./CKA%20Path.xmind)
 
 ### 25% - Cluster Architecture, Installation & Configuration
 [ ] **RBAC:** Manage role based access control  
