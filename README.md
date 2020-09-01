@@ -1,5 +1,5 @@
 ## Main Contents
-Language: ***EN***  [中文](./README-ZH)
+Language: ***EN***  [中文](./README-ZH_CN)
 🕖
 <video width="320" height="240" controls="controls" autoplay="autoplay" playsinline="playsinline">
   <source src="https://sharing.arvinsichuan.com/videos/ThinkDifferent.mp4" type="video/mp4">
