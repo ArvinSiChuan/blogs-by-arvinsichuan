@@ -27,7 +27,7 @@ Ref for `daemon.json`:
 ```json
 {
   "registry-mirrors": [
-    "https://urrxb38a.mirror.aliyuncs.com/"
+    "https://xxxxxxxx.mirror.aliyuncs.com/"
   ],
   "live-restore": true,
   "exec-opts": ["native.cgroupdriver=systemd"],
