@@ -12,4 +12,6 @@ Cert    Status
 CKA     Init 3/3
 CKS     Pending
 ```
+
+### [Networking Series](./networking/How-to-find-networking-things)
 **[Click Here to Leave A Message to me](https://github.com/ArvinSiChuan/blogs-by-arvinsichuan/issues/new?assignees=ArvinSiChuan&labels=&template=discuss-issue-template.md&title=)**

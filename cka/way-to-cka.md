@@ -4,8 +4,9 @@
 [![to-complete-path](../resources/imgs/to-complete-path.png)](./CKA%20Path.xmind)
 
 ### 25% - Cluster Architecture, Installation & Configuration
+[-] **[CRI](./CRI-Installation):** What is a CRI and how to install one  
 [ ] **RBAC:** Manage role based access control  
-[ ] **KubeAdmin:** Use Kubeadm to install a basic cluster  
+[-] **[KubeAdmin](./KubeCTL n KubeAdm):** Use Kubeadm to install a basic cluster  
 [ ] **HA:** Manage a highly-available Kubernetes cluster  
 [ ] **Deploy Arch:** Provision underlying infrastructure to deploy a Kubernetes cluster  
 [ ] **Upgrade:** Perform a version upgrade on a Kubernetes cluster using Kubeadm  
