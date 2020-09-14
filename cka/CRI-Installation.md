@@ -46,3 +46,5 @@ Ref for `daemon.json`:
 # sudo update-grub && sudo reboot
 ```
 
+### Useful Tips
+- Reload the docker `daemon.json` file not reqires restart the docker at all times. [some of the confs](https://docs.docker.com/engine/reference/commandline/dockerd/#daemon-configuration-file) can be reload by `systemctl reload docker`
