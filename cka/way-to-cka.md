@@ -9,7 +9,7 @@
 [-] **[KubeAdmin](./KubeCTL n KubeAdm):** Use Kubeadm to install a basic cluster  
 [ ] **HA:** Manage a highly-available Kubernetes cluster  
 [ ] **Deploy Arch:** Provision underlying infrastructure to deploy a Kubernetes cluster  
-[ ] **Upgrade:** Perform a version upgrade on a Kubernetes cluster using Kubeadm  
+[ ] **[Upgrade](./Cluster-Upgrade):** Perform a version upgrade on a Kubernetes cluster using Kubeadm  
 [ ] **Etcd Recovery:** Implement etcd backup and restore  
 ### 15% - Workloads & Scheduling  
 [ ] **Deployments:** Understand deployments and how to perform rolling update and rollbacks  
