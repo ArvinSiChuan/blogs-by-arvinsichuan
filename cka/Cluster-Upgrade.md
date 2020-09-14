@@ -1,5 +1,5 @@
 # Cluster Upgrade
-[← Back](..)
+[← Back](../way-to-cka)
 
 ## Check the Possible Upgrade Plan  
 ```bash
