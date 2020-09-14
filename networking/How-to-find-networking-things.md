@@ -1,4 +1,4 @@
-# Overall Path to CKA
+# How to find: the networking things
 [← Back](..)
 
 ## How to test a web server/url availability
